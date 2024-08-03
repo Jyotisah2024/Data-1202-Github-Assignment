@@ -35,7 +35,8 @@ Please refer to CONTRIBUTING.md for the code of conduct and submission requireme
 # Versioning
 We use SemVer for versioning. The tags on this repository provide information about available versions.
 
-# Authors name
+# Authors name 
+Initial works
 Jyoti Sah
 
 # License
